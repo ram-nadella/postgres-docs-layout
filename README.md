@@ -1,4 +1,4 @@
-Chrome extension that makes minor style tweaks to Postgres docs to improve legibility.
+Chrome extension that makes minor style tweaks to [Postgres docs](http://www.postgresql.org/docs/9.4/static/intro-whatis.html) to improve legibility.
 
 * Limit content width to 700px
 * Increased font size
